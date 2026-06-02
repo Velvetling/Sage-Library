@@ -1,0 +1,299 @@
+{
+  "id": "dustwalker",
+  "title": "Dustwalker",
+  "author": "Tiffany Roberts",
+  "description": "",
+  "filename": "Dustwalker (Tiffany Roberts).epub",
+  "totalWords": 137560,
+  "totalPages": 138,
+  "totalChapters": 41,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 81,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 165,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 119,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 3208,
+      "pageCount": 4,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 3829,
+      "pageCount": 4,
+      "startPage": 8
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 4183,
+      "pageCount": 5,
+      "startPage": 12
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 3671,
+      "pageCount": 4,
+      "startPage": 17
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 2738,
+      "pageCount": 3,
+      "startPage": 21
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 3063,
+      "pageCount": 4,
+      "startPage": 24
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 3787,
+      "pageCount": 4,
+      "startPage": 28
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 4182,
+      "pageCount": 5,
+      "startPage": 32
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 3642,
+      "pageCount": 4,
+      "startPage": 37
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 4332,
+      "pageCount": 5,
+      "startPage": 41
+    },
+    {
+      "index": 14,
+      "title": "Chapter 14",
+      "wordCount": 3231,
+      "pageCount": 4,
+      "startPage": 46
+    },
+    {
+      "index": 15,
+      "title": "Chapter 15",
+      "wordCount": 2929,
+      "pageCount": 3,
+      "startPage": 50
+    },
+    {
+      "index": 16,
+      "title": "Chapter 16",
+      "wordCount": 4368,
+      "pageCount": 5,
+      "startPage": 53
+    },
+    {
+      "index": 17,
+      "title": "Chapter 17",
+      "wordCount": 3911,
+      "pageCount": 4,
+      "startPage": 58
+    },
+    {
+      "index": 18,
+      "title": "Chapter 18",
+      "wordCount": 4346,
+      "pageCount": 5,
+      "startPage": 62
+    },
+    {
+      "index": 19,
+      "title": "Chapter 19",
+      "wordCount": 3270,
+      "pageCount": 4,
+      "startPage": 67
+    },
+    {
+      "index": 20,
+      "title": "Chapter 20",
+      "wordCount": 3880,
+      "pageCount": 4,
+      "startPage": 71
+    },
+    {
+      "index": 21,
+      "title": "Chapter 21",
+      "wordCount": 3747,
+      "pageCount": 4,
+      "startPage": 75
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 3654,
+      "pageCount": 4,
+      "startPage": 79
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 4249,
+      "pageCount": 5,
+      "startPage": 83
+    },
+    {
+      "index": 24,
+      "title": "Chapter 24",
+      "wordCount": 3597,
+      "pageCount": 4,
+      "startPage": 88
+    },
+    {
+      "index": 25,
+      "title": "Chapter 25",
+      "wordCount": 4195,
+      "pageCount": 5,
+      "startPage": 92
+    },
+    {
+      "index": 26,
+      "title": "Chapter 26",
+      "wordCount": 4141,
+      "pageCount": 5,
+      "startPage": 97
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 3403,
+      "pageCount": 4,
+      "startPage": 102
+    },
+    {
+      "index": 28,
+      "title": "Chapter 28",
+      "wordCount": 3331,
+      "pageCount": 4,
+      "startPage": 106
+    },
+    {
+      "index": 29,
+      "title": "Chapter 29",
+      "wordCount": 3145,
+      "pageCount": 4,
+      "startPage": 110
+    },
+    {
+      "index": 30,
+      "title": "Chapter 30",
+      "wordCount": 3545,
+      "pageCount": 4,
+      "startPage": 114
+    },
+    {
+      "index": 31,
+      "title": "Chapter 31",
+      "wordCount": 3945,
+      "pageCount": 4,
+      "startPage": 118
+    },
+    {
+      "index": 32,
+      "title": "Chapter 32",
+      "wordCount": 4712,
+      "pageCount": 5,
+      "startPage": 122
+    },
+    {
+      "index": 33,
+      "title": "Chapter 33",
+      "wordCount": 3975,
+      "pageCount": 4,
+      "startPage": 127
+    },
+    {
+      "index": 34,
+      "title": "Chapter 34",
+      "wordCount": 6927,
+      "pageCount": 7,
+      "startPage": 131
+    },
+    {
+      "index": 35,
+      "title": "Chapter 35",
+      "wordCount": 4004,
+      "pageCount": 5,
+      "startPage": 138
+    },
+    {
+      "index": 36,
+      "title": "Chapter 36",
+      "wordCount": 6342,
+      "pageCount": 7,
+      "startPage": 143
+    },
+    {
+      "index": 37,
+      "title": "Chapter 37",
+      "wordCount": 2408,
+      "pageCount": 3,
+      "startPage": 150
+    },
+    {
+      "index": 38,
+      "title": "Chapter 38",
+      "wordCount": 2928,
+      "pageCount": 3,
+      "startPage": 153
+    },
+    {
+      "index": 39,
+      "title": "Chapter 39",
+      "wordCount": 2225,
+      "pageCount": 3,
+      "startPage": 156
+    },
+    {
+      "index": 40,
+      "title": "Chapter 40",
+      "wordCount": 36,
+      "pageCount": 1,
+      "startPage": 159
+    },
+    {
+      "index": 41,
+      "title": "Chapter 41",
+      "wordCount": 116,
+      "pageCount": 1,
+      "startPage": 160
+    }
+  ]
+}

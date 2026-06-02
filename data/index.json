@@ -46,6 +46,15 @@
       "totalChapters": 58
     },
     {
+      "id": "dustwalker",
+      "title": "Dustwalker",
+      "author": "Tiffany Roberts",
+      "description": "",
+      "totalWords": 137560,
+      "totalPages": 138,
+      "totalChapters": 41
+    },
+    {
       "id": "godel-escher-bach-an-eternal-golden-braid",
       "title": "Godel, Escher, Bach-An Eternal Golden Braid",
       "author": "Douglas R. Hofstadter",
@@ -388,5 +397,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-06-02T08:33:04.831Z"
+  "updatedAt": "2026-06-02T08:50:13.826Z"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "compulsory-a-murderbot-diaries-story",
+  "title": "Compulsory: A Murderbot Diaries Story",
+  "author": "Martha Wells",
+  "description": "",
+  "filename": "Compulsory  (The Murderbot Diaries, #0.5) Martha Wells.epub",
+  "totalWords": 1088,
+  "totalPages": 2,
+  "totalChapters": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Start",
+      "wordCount": 1054,
+      "pageCount": 2,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 34,
+      "pageCount": 1,
+      "startPage": 3
+    }
+  ]
+}

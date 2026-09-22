@@ -1,0 +1,96 @@
+{
+  "id": "rogue-protocol-the-murderbot-diaries",
+  "title": "Rogue Protocol: The Murderbot Diaries",
+  "author": "Martha Wells",
+  "description": "",
+  "filename": "Rogue Protocol  (The Murderbot Diaries, #3) Martha Wells.epub",
+  "totalWords": 35796,
+  "totalPages": 36,
+  "totalChapters": 12,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 54,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 102,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter One",
+      "wordCount": 3831,
+      "pageCount": 4,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter Two",
+      "wordCount": 5725,
+      "pageCount": 6,
+      "startPage": 7
+    },
+    {
+      "index": 5,
+      "title": "Chapter Three",
+      "wordCount": 1919,
+      "pageCount": 2,
+      "startPage": 13
+    },
+    {
+      "index": 6,
+      "title": "Chapter Four",
+      "wordCount": 5702,
+      "pageCount": 6,
+      "startPage": 15
+    },
+    {
+      "index": 7,
+      "title": "Chapter Five",
+      "wordCount": 10558,
+      "pageCount": 11,
+      "startPage": 21
+    },
+    {
+      "index": 8,
+      "title": "Chapter Six",
+      "wordCount": 7479,
+      "pageCount": 8,
+      "startPage": 32
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 123,
+      "pageCount": 1,
+      "startPage": 40
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 136,
+      "pageCount": 1,
+      "startPage": 41
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 44,
+      "pageCount": 1,
+      "startPage": 42
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 123,
+      "pageCount": 1,
+      "startPage": 43
+    }
+  ]
+}

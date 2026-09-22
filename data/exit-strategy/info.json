@@ -1,0 +1,103 @@
+{
+  "id": "exit-strategy",
+  "title": "Exit Strategy",
+  "author": "Martha Wells",
+  "description": "",
+  "filename": "Exit Strategy (The Murderbot Diaries, #4) Martha Wells.epub",
+  "totalWords": 36283,
+  "totalPages": 37,
+  "totalChapters": 13,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 102,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 4034,
+      "pageCount": 5,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 4532,
+      "pageCount": 5,
+      "startPage": 7
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 4427,
+      "pageCount": 5,
+      "startPage": 12
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 5300,
+      "pageCount": 6,
+      "startPage": 17
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 3938,
+      "pageCount": 4,
+      "startPage": 23
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 4599,
+      "pageCount": 5,
+      "startPage": 27
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 4166,
+      "pageCount": 5,
+      "startPage": 32
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 4784,
+      "pageCount": 5,
+      "startPage": 37
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 125,
+      "pageCount": 1,
+      "startPage": 42
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 96,
+      "pageCount": 1,
+      "startPage": 43
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 44,
+      "pageCount": 1,
+      "startPage": 44
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 136,
+      "pageCount": 1,
+      "startPage": 45
+    }
+  ]
+}

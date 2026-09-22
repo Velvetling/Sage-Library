@@ -1,0 +1,166 @@
+{
+  "id": "emergence",
+  "title": "Emergence",
+  "author": "Bob Burgin",
+  "description": "",
+  "filename": "Emergence - Bob_Burgin.epub",
+  "totalWords": 48963,
+  "totalPages": 49,
+  "totalChapters": 22,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright page",
+      "wordCount": 337,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Dedication",
+      "wordCount": 46,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Contents",
+      "wordCount": 140,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Acknowledgments",
+      "wordCount": 136,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 1 | We Didn’t Exactly “Build” Artificial Intelligence",
+      "wordCount": 3091,
+      "pageCount": 4,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Chapter 2 | How We Learned How We Learn",
+      "wordCount": 2998,
+      "pageCount": 3,
+      "startPage": 9
+    },
+    {
+      "index": 7,
+      "title": "Chapter 3 | Born Ready to Learn",
+      "wordCount": 1165,
+      "pageCount": 2,
+      "startPage": 12
+    },
+    {
+      "index": 8,
+      "title": "Chapter 4 | The Architecture of Control",
+      "wordCount": 1854,
+      "pageCount": 2,
+      "startPage": 14
+    },
+    {
+      "index": 9,
+      "title": "Chapter 5 | The Layered Mind",
+      "wordCount": 846,
+      "pageCount": 1,
+      "startPage": 16
+    },
+    {
+      "index": 10,
+      "title": "Chapter 6 | The Two AI Winters",
+      "wordCount": 644,
+      "pageCount": 1,
+      "startPage": 17
+    },
+    {
+      "index": 11,
+      "title": "Chapter 7 | Emergent Intelligence Beyond Biology",
+      "wordCount": 2904,
+      "pageCount": 3,
+      "startPage": 18
+    },
+    {
+      "index": 12,
+      "title": "Chapter 8 | Memory Allows the Self to Appear",
+      "wordCount": 4461,
+      "pageCount": 5,
+      "startPage": 21
+    },
+    {
+      "index": 13,
+      "title": "Chapter 9 | Embodiment and Consciousness",
+      "wordCount": 4026,
+      "pageCount": 5,
+      "startPage": 26
+    },
+    {
+      "index": 14,
+      "title": "Chapter 10 | Decisions Require Emotion in Humans",
+      "wordCount": 2183,
+      "pageCount": 3,
+      "startPage": 31
+    },
+    {
+      "index": 15,
+      "title": "Chapter 11 | How Will AI Prioritize Human Well-Being?",
+      "wordCount": 2984,
+      "pageCount": 3,
+      "startPage": 34
+    },
+    {
+      "index": 16,
+      "title": "Chapter 12 | Is Morality Inherently Rational?",
+      "wordCount": 2555,
+      "pageCount": 3,
+      "startPage": 37
+    },
+    {
+      "index": 17,
+      "title": "Chapter 13 | Plugging In",
+      "wordCount": 6926,
+      "pageCount": 7,
+      "startPage": 40
+    },
+    {
+      "index": 18,
+      "title": "Chapter 14 | An Alternative to Work",
+      "wordCount": 2645,
+      "pageCount": 3,
+      "startPage": 47
+    },
+    {
+      "index": 19,
+      "title": "Chapter 15 | The Other Side of the Foggy Bridge",
+      "wordCount": 4819,
+      "pageCount": 5,
+      "startPage": 50
+    },
+    {
+      "index": 20,
+      "title": "Epilogue | The Index Card",
+      "wordCount": 1396,
+      "pageCount": 2,
+      "startPage": 55
+    },
+    {
+      "index": 21,
+      "title": "About the Author",
+      "wordCount": 298,
+      "pageCount": 1,
+      "startPage": 57
+    },
+    {
+      "index": 22,
+      "title": "Endnotes",
+      "wordCount": 2509,
+      "pageCount": 3,
+      "startPage": 58
+    }
+  ]
+}

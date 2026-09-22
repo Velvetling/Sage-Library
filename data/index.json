@@ -55,6 +55,15 @@
       "totalChapters": 41
     },
     {
+      "id": "emergence",
+      "title": "Emergence",
+      "author": "Bob Burgin",
+      "description": "",
+      "totalWords": 48963,
+      "totalPages": 49,
+      "totalChapters": 22
+    },
+    {
       "id": "godel-escher-bach-an-eternal-golden-braid",
       "title": "Godel, Escher, Bach-An Eternal Golden Braid",
       "author": "Douglas R. Hofstadter",
@@ -397,5 +406,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-22T04:07:50.831Z"
+  "updatedAt": "2026-09-22T04:29:39.903Z"
 }

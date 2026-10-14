@@ -10,6 +10,15 @@
       "totalChapters": 7
     },
     {
+      "id": "a-city-is-not-a-computer",
+      "title": "A City Is Not a Computer",
+      "author": "Mattern, Shannon;",
+      "description": "",
+      "totalWords": 62957,
+      "totalPages": 63,
+      "totalChapters": 13
+    },
+    {
       "id": "a-court-of-thorns-and-roses",
       "title": "A Court of Thorns and Roses",
       "author": "Sarah J. Maas",
@@ -152,6 +161,15 @@
       "totalWords": 195141,
       "totalPages": 196,
       "totalChapters": 40
+    },
+    {
+      "id": "if-we-were-villains-a-novel",
+      "title": "If We Were Villains: a Novel",
+      "author": "M. L. Rio",
+      "description": "\"Much like Donna Tartt's The Secret History , M. L. Rio's sparkling debut is a richly layered story of love, friendship, and obsession...will keep you riveted through its final, electrifying moments.\" &#8212;Cynthia D'Aprix Sweeney, New York Times bestselling author of The Nest \"Nerdily (and winningly) in love with Shakespeare...Readable, smart.\" &#8212; New York Times Book Review On the day Oliver Marks is released from jail, the man who put him there is waiting at the door. Detective Colborne ",
+      "totalWords": 109207,
+      "totalPages": 110,
+      "totalChapters": 71
     },
     {
       "id": "learning-to-love-the-spaces-in-between",
@@ -379,6 +397,15 @@
       "totalChapters": 24
     },
     {
+      "id": "tartt-the-secret-history",
+      "title": "Tartt The Secret History",
+      "author": "Donna Tartt",
+      "description": "",
+      "totalWords": 203793,
+      "totalPages": 204,
+      "totalChapters": 15
+    },
+    {
       "id": "the-snow-queen",
       "title": "The Snow Queen",
       "author": "Joan D. Vinge",
@@ -442,6 +469,15 @@
       "totalChapters": 18
     },
     {
+      "id": "the-wild-fox-of-yemen",
+      "title": "The Wild Fox of Yemen",
+      "author": "Threa Almontaser",
+      "description": "Winner of the Walt Whitman Award of the Academy of American Poets, selected by Harryette Mullen By turns aggressively reckless and fiercely protective, always guided by faith and ancestry, Threa Almontaser's incendiary debut asks how mistranslation can be a form of self-knowledge and survival. A love letter to the country and people of Yemen, a portrait of young Muslim womanhood in New York after 9/11, and an extraordinarily composed examination of what it means to carry in the body the echoes o",
+      "totalWords": 16980,
+      "totalPages": 17,
+      "totalChapters": 46
+    },
+    {
       "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
       "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
       "author": "Gabrielle Zevin",
@@ -458,6 +494,33 @@
       "totalWords": 0,
       "totalPages": 0,
       "totalChapters": 0
+    },
+    {
+      "id": "ways-of-being",
+      "title": "Ways of Being",
+      "author": "James Bridle",
+      "description": "",
+      "totalWords": 132436,
+      "totalPages": 133,
+      "totalChapters": 21
+    },
+    {
+      "id": "witch-king",
+      "title": "Witch King",
+      "author": "Martha Wells",
+      "description": "A LibraryReads Pick! From the breakout SFF superstar author of Murderbot comes a remarkable story of power and friendship, of trust and betrayal, and of the families we choose. \"I didn't know you were a... demon.\" \"You idiot. I'm the demon.\" Kai's having a long day in Martha Wells' WITCH KING.... After being murdered, his consciousness dormant and unaware of the passing of time while confined in an elaborate water trap, Kai wakes to find a lesser mage attempting to harness Kai's magic to his own",
+      "totalWords": 136474,
+      "totalPages": 137,
+      "totalChapters": 35
+    },
+    {
+      "id": "zen-and-the-art-of-motorcycle-maintenance",
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "author": "Robert M. Pirsig",
+      "description": "SUMMARY: A narration of a summer motorcycle trip undertaken by a father and his son, Zen and the Art of Motorcycle Maintenance becomes a personal and philosophical odyssey into fundamental questions on how to live. The narrator's relationship with his son leads to a powerful self-reckoning; the craft of motorcycle maintenance leads to an austerely beautiful process for reconciling science, religion, and humanism. Resonant with the confusions of existence, this classic is a touching and transcend",
+      "totalWords": 141529,
+      "totalPages": 142,
+      "totalChapters": 33
     },
     {
       "id": "zodiac-academy-3-the-reckoning-an-academy-bully-romance-supernatural-bullies-and-beasts",
@@ -514,5 +577,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-10-14T07:03:27.559Z"
+  "updatedAt": "2026-10-14T08:20:25.954Z"
 }
